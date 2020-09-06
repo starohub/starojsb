@@ -1,2 +1,3 @@
-# starojsb
-Staro JavaScript Sandbox
+![StaroJSB](https://github.com/starohub/starojsb/raw/master/resources/images/starojsb-64.png)
+
+# Staro JavaScript Sandbox

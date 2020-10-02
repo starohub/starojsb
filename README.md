@@ -9,7 +9,7 @@
 
 ### Release
 
-[Release 0.1.11](https://github.com/starohub/starojsb/releases/tag/0.1.11)
+[Release 0.1.12](https://github.com/starohub/starojsb/releases/tag/0.1.12)
 
 ### Maven
 
@@ -32,11 +32,11 @@
             <systemPath>${project.basedir}/lib/starodiscus.jar</systemPath>
         </dependency>
 
-        <!-- https://github.com/starohub/starojsb/releases/tag/0.1.11 -->
+        <!-- https://github.com/starohub/starojsb/releases/tag/0.1.12 -->
         <dependency>
             <groupId>com.starohub.jsb</groupId>
             <artifactId>starojsb</artifactId>
-            <version>0.1.11</version>
+            <version>0.1.12</version>
             <scope>system</scope>
             <systemPath>${project.basedir}/lib/starojsb.jar</systemPath>
         </dependency>
